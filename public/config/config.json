@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0x432c4a469e4768b756b1021ac1a28090936d767c",
+    "SCAN_LINK": "https://bscscan.com/address/0x432c4a469e4768b756b1021ac1a28090936d767c",
+    "NETWORK": {
+      "NAME": "Smart Chain",
+      "SYMBOL": "BNB",
+      "ID":56
+    },
+    "NFT_NAME": "Ethereum Hero",
+    "SYMBOL": "ETHH",
+    "MAX_SUPPLY": 700,
+    "WEI_COST": 160000000000000000,
+    "DISPLAY_COST": 0.16,
+    "GAS_LIMIT": 290000,
+    "MARKETPLACE": "Tofunft",
+    "MARKETPLACE_LINK": "https://tofunft.com/",
+    "SHOW_BACKGROUND": true
+  }
